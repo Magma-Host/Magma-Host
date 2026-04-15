@@ -1,18 +1,16 @@
-<h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">A passionate Web Engineer</h3>
+# 💫 About Me:
+🔭 I’m currently working on magmahost<br><br>🌱 I’m currently learning Rust<br><br>💬 Ask me about Docker • Node<br><br>📫 How to reach me discord: dreams7689
 
-- 🔭 I’m currently working on [magmahost](https://magmahost.eu)
 
-- 🌱 I’m currently learning **Rust**
+# 💻 Tech Stack:
+![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=flat-square&logo=ovh&logoColor=#123F6D) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Magma-Host&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Magma-Host&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Magma-Host&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 💬 Ask me about **React • Node**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Magma-Host&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 📫 How to reach me **discord: dreams7689**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
+---
+[![](https://komarev.com/ghpvc/?username=Magma-Host&icon=0&color=1)](https://visitcount.itsvg.in)
